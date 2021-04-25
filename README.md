@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learning Full Stack Coding at UCLA Coding Bootcamp.
+- 🔭 Graduated from UCLA coding extension bootcamp.
 - 💬 Ask me about anything. I like to learn new things and I enjoy communicating with other.
 - 📫 How to reach me: Contact me at jocecode27@gmail.com
 - 😄 Hobbies: I enjoy video games and eating.
